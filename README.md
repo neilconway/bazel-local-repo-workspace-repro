@@ -1,0 +1,1 @@
+# bazel-local-repo-workspace-repro
